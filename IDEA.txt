@@ -1,0 +1,3 @@
+it is a song sharing and socializing application without the use of internet.
+it generates a text file of song and uploads its to server, 
+thus one can have a look at the song list of any device near to it and further can share files.
